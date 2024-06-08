@@ -2,6 +2,8 @@
 
 Electro's Mod, A fun Elemental and Realistic Survival Mod for Minecraft Forge!
 
+![Logo](./logo.png)
+
 Download Now!
 
 ### Links

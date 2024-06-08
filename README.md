@@ -5,4 +5,4 @@ Electro's Mod, A fun Elemental and Realistic Survival Mod for Minecraft Forge!
 Download Now!
 
 ### Links
-- [CurseForge] (https://legacy.curseforge.com/minecraft/mc-mods/electros-mod)
+- [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/electros-mod)

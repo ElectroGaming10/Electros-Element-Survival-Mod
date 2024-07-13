@@ -8,3 +8,4 @@ Download Now!
 
 ### Links
 - [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/electros-mod)
+- [Modrinth](https://modrinth.com/mod/electros-powercraft)
